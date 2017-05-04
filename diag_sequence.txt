@@ -1,0 +1,5 @@
+pour le diagramme de sequence , il suffit juste de récupérer les utilisateurs  : admin , etudiant , entreprise
+ et de les faire intéragir avec le systeme Junior Entreprise
+
+et de faire une fonction  pour chaque fichier , exemple ListeEtudiant.php  ->   getListeEtudiant()
+																											<-   affichageListeEtudiant()
